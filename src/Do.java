@@ -1,5 +1,5 @@
 public class Do {
-    void field(){
-        System.out.println("Bye");
+    String priv (){
+        return "privet";
     }
 }
