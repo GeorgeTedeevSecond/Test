@@ -1,5 +1,6 @@
 public class Do {
-    String priv (){
-        return "privet";
+    String priv (String p){
+        p = "privet";
+        return p;
     }
 }
